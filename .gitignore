@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+anfp.db-wal
+anfp.db-shm
+.venv/
