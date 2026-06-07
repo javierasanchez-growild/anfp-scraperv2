@@ -94,3 +94,367 @@ premier,Premier League,2023,16,L. Trossard,Arsenal,12,1.0,34
 premier,Premier League,2023,17,Matheus Cunha,Manchester United,12,7.0,32
 premier,Premier League,2023,18,Hwang Hee-Chan,Wolves,12,3.0,29
 premier,Premier League,2023,19,D. Núñez,Liverpool,11,8.0,36
+premier,Premier League,2024,1,Mohamed Salah,Liverpool,29,18.0,38
+premier,Premier League,2024,2,A. Isak,Newcastle,23,6.0,34
+premier,Premier League,2024,3,E. Haaland,Manchester City,22,3.0,32
+premier,Premier League,2024,4,C. Wood,Nottingham Forest,20,3.0,36
+premier,Premier League,2024,5,B. Mbeumo,Brentford,20,7.0,38
+premier,Premier League,2024,6,Y. Wissa,Brentford,19,4.0,35
+premier,Premier League,2024,7,O. Watkins,Aston Villa,16,8.0,38
+premier,Premier League,2024,8,Matheus Cunha,Manchester United,15,6.0,33
+premier,Premier League,2024,9,C. Palmer,Chelsea,15,8.0,37
+premier,Premier League,2024,10,J. Strand Larsen,Wolves,14,4.0,35
+premier,Premier League,2024,11,J. Mateta,Crystal Palace,14,2.0,37
+premier,Premier League,2024,12,L. Díaz,Liverpool,13,5.0,36
+premier,Premier League,2024,13,J. Bowen,West Ham,13,8.0,34
+premier,Premier League,2024,14,L. Delap,Ipswich,12,2.0,37
+premier,Premier League,2024,15,R. Jiménez,Fulham,12,3.0,38
+premier,Premier League,2024,16,J. Kluivert,Bournemouth,12,6.0,34
+premier,Premier League,2024,17,A. Semenyo,Bournemouth,11,5.0,37
+premier,Premier League,2024,18,B. Johnson,Tottenham,11,3.0,33
+premier,Premier League,2024,19,K. Schade,Brentford,11,2.0,38
+laliga,La Liga,2022,1,R. Lewandowski,Barcelona,23,7.0,34
+laliga,La Liga,2022,2,K. Benzema,Real Madrid,19,3.0,24
+laliga,La Liga,2022,3,Joselu,Espanyol,16,2.0,34
+laliga,La Liga,2022,4,A. Griezmann,Atletico Madrid,15,16.0,38
+laliga,La Liga,2022,5,V. Muriqi,Mallorca,15,3.0,35
+laliga,La Liga,2022,6,Borja Iglesias,Real Betis,15,3.0,35
+laliga,La Liga,2022,7,E. Ünal,Getafe,14,3.0,35
+laliga,La Liga,2022,8,Álvaro Morata,Atletico Madrid,13,2.0,36
+laliga,La Liga,2022,9,V. Castellanos,Girona,13,,35
+laliga,La Liga,2022,10,N. Jackson,Villarreal,12,4.0,29
+laliga,La Liga,2022,11,A. Sørloth,Atletico Madrid,12,3.0,34
+laliga,La Liga,2022,12,Iago Aspas,Celta Vigo,12,3.0,37
+laliga,La Liga,2022,13,Gabri Veiga,Celta Vigo,11,4.0,36
+laliga,La Liga,2022,14,Vinícius Júnior,Real Madrid,10,9.0,33
+laliga,La Liga,2022,15,M. Braithwaite,Espanyol,10,2.0,31
+laliga,La Liga,2022,16,I. Williams,Athletic Club,10,3.0,36
+laliga,La Liga,2022,17,Oihan Sancet,Athletic Club,10,2.0,36
+laliga,La Liga,2022,18,Marco Asensio,Real Madrid,9,6.0,31
+laliga,La Liga,2023,1,A. Dovbyk,Girona,24,8.0,36
+laliga,La Liga,2023,2,A. Sørloth,Villarreal,23,6.0,34
+laliga,La Liga,2023,3,J. Bellingham,Real Madrid,19,6.0,32
+laliga,La Liga,2023,4,R. Lewandowski,Barcelona,19,8.0,35
+laliga,La Liga,2023,5,A. Budimir,Osasuna,17,2.0,33
+laliga,La Liga,2023,6,Y. En-Nesyri,Sevilla,16,2.0,33
+laliga,La Liga,2023,7,A. Griezmann,Atletico Madrid,16,6.0,33
+laliga,La Liga,2023,8,Álvaro Morata,Atletico Madrid,15,3.0,32
+laliga,La Liga,2023,9,Vinícius Júnior,Real Madrid,15,5.0,29
+laliga,La Liga,2023,10,Borja Mayoral,Getafe,15,1.0,27
+laliga,La Liga,2023,11,Gorka Guruzeta,Athletic Club,14,5.0,32
+laliga,La Liga,2023,12,J. Strand Larsen,Celta Vigo,13,3.0,37
+laliga,La Liga,2023,13,Hugo Duro,Valencia,13,2.0,37
+laliga,La Liga,2023,14,I. Williams,Athletic Club,12,3.0,34
+laliga,La Liga,2023,15,M. Uzuni,Granada CF,11,1.0,35
+laliga,La Liga,2023,16,Rodrygo,Real Madrid,10,5.0,37
+laliga,La Liga,2023,17,Willian José,Real Betis,10,5.0,33
+laliga,La Liga,2023,18,Joselu,Real Madrid,10,2.0,34
+laliga,La Liga,2023,19,Gerard Moreno,Villarreal,10,6.0,30
+laliga,La Liga,2023,20,Sávio,Girona,9,10.0,37
+laliga,La Liga,2024,1,Kylian Mbappé,Real Madrid,31,3.0,34
+laliga,La Liga,2024,2,R. Lewandowski,Barcelona,26,2.0,35
+laliga,La Liga,2024,3,A. Budimir,Osasuna,21,4.0,38
+laliga,La Liga,2024,4,A. Sørloth,Atletico Madrid,20,2.0,35
+laliga,La Liga,2024,5,Ayoze Pérez,Villarreal,19,2.0,30
+laliga,La Liga,2024,6,Raphinha,Barcelona,18,9.0,37
+laliga,La Liga,2024,7,J. Álvarez,Atletico Madrid,17,4.0,37
+laliga,La Liga,2024,8,Oihan Sancet,Athletic Club,15,1.0,30
+laliga,La Liga,2024,9,Kike García,Alaves,13,0.0,37
+laliga,La Liga,2024,10,Javi Puado,Espanyol,12,4.0,35
+laliga,La Liga,2024,11,Borja Iglesias,Celta Vigo,11,3.0,37
+laliga,La Liga,2024,12,T. Barry,Villarreal,11,4.0,35
+laliga,La Liga,2024,13,D. Lukebakio,Sevilla,11,2.0,38
+laliga,La Liga,2024,14,Hugo Duro,Valencia,11,2.0,31
+laliga,La Liga,2024,15,Vinícius Júnior,Real Madrid,11,8.0,30
+laliga,La Liga,2024,16,C. Stuani,Girona,11,2.0,38
+laliga,La Liga,2024,17,Fábio Silva,Las Palmas,10,3.0,24
+laliga,La Liga,2024,18,M. Arambarri,Getafe,10,0.0,35
+laliga,La Liga,2024,19,Iago Aspas,Celta Vigo,10,5.0,30
+laliga,La Liga,2024,20,Lamine Yamal,Barcelona,9,13.0,34
+seriea,Serie A,2022,1,V. Osimhen,Napoli,26,4.0,32
+seriea,Serie A,2022,2,Lautaro Martínez,Inter,21,6.0,38
+seriea,Serie A,2022,3,B. Dia,Salernitana,16,6.0,34
+seriea,Serie A,2022,4,Rafael Leão,AC Milan,15,8.0,35
+seriea,Serie A,2022,5,A. Lookman,Atalanta,13,6.0,32
+seriea,Serie A,2022,6,O. Giroud,AC Milan,13,5.0,33
+seriea,Serie A,2022,7,M&apos;Bala Nzola,Fiorentina,13,2.0,32
+seriea,Serie A,2022,8,A. Sanabria,Torino,12,4.0,33
+seriea,Serie A,2022,9,K. Kvaratskhelia,Napoli,12,10.0,34
+seriea,Serie A,2022,10,C. Immobile,Lazio,12,5.0,31
+seriea,Serie A,2022,11,P. Dybala,AS Roma,12,6.0,27
+seriea,Serie A,2022,12,D. Berardi,Sassuolo,12,7.0,26
+seriea,Serie A,2022,13,R. Orsolini,Bologna,11,4.0,32
+seriea,Serie A,2022,14,M. Zaccagni,Lazio,10,6.0,35
+seriea,Serie A,2022,15,Beto,Udinese,10,1.0,33
+seriea,Serie A,2022,16,R. Lukaku,Napoli,10,6.0,26
+seriea,Serie A,2022,17,T. Koopmeiners,Atalanta,10,4.0,33
+seriea,Serie A,2022,18,D. Vlahović,Juventus,10,2.0,28
+seriea,Serie A,2023,1,Lautaro Martínez,Inter,24,3.0,33
+seriea,Serie A,2023,2,D. Vlahović,Juventus,16,4.0,33
+seriea,Serie A,2023,3,O. Giroud,AC Milan,15,8.0,35
+seriea,Serie A,2023,4,A. Guðmundsson,Genoa,14,4.0,35
+seriea,Serie A,2023,5,M. Thuram,Inter,13,7.0,35
+seriea,Serie A,2023,6,R. Lukaku,AS Roma,13,3.0,32
+seriea,Serie A,2023,7,P. Dybala,AS Roma,13,9.0,28
+seriea,Serie A,2023,8,H. Çalhanoğlu,Inter,13,3.0,32
+seriea,Serie A,2023,9,C. Pulišić,AC Milan,12,8.0,36
+seriea,Serie A,2023,10,G. Scamacca,Atalanta,12,6.0,29
+seriea,Serie A,2023,11,D. Zapata,Torino,12,,35
+seriea,Serie A,2023,12,N. González,Fiorentina,12,2.0,29
+seriea,Serie A,2023,13,T. Koopmeiners,Atalanta,12,5.0,34
+seriea,Serie A,2023,14,V. Osimhen,Napoli,12,2.0,24
+seriea,Serie A,2023,15,A. Lookman,Atalanta,11,7.0,31
+seriea,Serie A,2023,16,K. Kvaratskhelia,Napoli,11,5.0,34
+seriea,Serie A,2023,17,J. Zirkzee,Bologna,11,4.0,34
+seriea,Serie A,2023,18,A. Pinamonti,Sassuolo,11,1.0,38
+seriea,Serie A,2023,19,M. Soulé,Frosinone,11,3.0,36
+seriea,Serie A,2023,20,C. De Ketelaere,Atalanta,10,8.0,35
+seriea,Serie A,2024,1,M. Retegui,Atalanta,25,8.0,36
+seriea,Serie A,2024,2,M. Kean,Fiorentina,19,3.0,32
+seriea,Serie A,2024,3,A. Lookman,Atalanta,15,5.0,33
+seriea,Serie A,2024,4,R. Orsolini,Bologna,15,4.0,30
+seriea,Serie A,2024,5,M. Thuram,Inter,14,4.0,35
+seriea,Serie A,2024,6,R. Lukaku,Napoli,14,10.0,36
+seriea,Serie A,2024,7,S. McTominay,Napoli,12,4.0,34
+seriea,Serie A,2024,8,Lautaro Martínez,Inter,12,3.0,32
+seriea,Serie A,2024,9,L. Lucca,Udinese,12,1.0,33
+seriea,Serie A,2024,10,A. Dovbyk,AS Roma,12,2.0,35
+seriea,Serie A,2024,11,N. Krstović,Lecce,11,5.0,37
+seriea,Serie A,2024,12,C. Pulišić,AC Milan,11,9.0,34
+seriea,Serie A,2024,13,T. Reijnders,AC Milan,10,4.0,37
+seriea,Serie A,2024,14,A. Pinamonti,Genoa,10,1.0,36
+seriea,Serie A,2024,15,R. Piccoli,Cagliari,10,1.0,37
+seriea,Serie A,2024,16,V. Castellanos,Lazio,10,3.0,31
+seriea,Serie A,2024,17,Pedro,Lazio,10,1.0,36
+seriea,Serie A,2024,18,D. Vlahović,Juventus,10,4.0,32
+seriea,Serie A,2024,19,B. Dia,Lazio,9,3.0,37
+seriea,Serie A,2024,20,C. Adams,Torino,9,3.0,37
+bundesliga,Bundesliga,2022,1,C. Nkunku,RB Leipzig,16,4.0,25
+bundesliga,Bundesliga,2022,2,N. Füllkrug,Werder Bremen,16,5.0,28
+bundesliga,Bundesliga,2022,3,R. Kolo Muani,Eintracht Frankfurt,15,11.0,32
+bundesliga,Bundesliga,2022,4,V. Grifo,SC Freiburg,15,5.0,33
+bundesliga,Bundesliga,2022,5,S. Gnabry,Bayern München,14,5.0,34
+bundesliga,Bundesliga,2022,6,M. Thuram,Borussia Mönchengladbach,13,6.0,31
+bundesliga,Bundesliga,2022,7,J. Musiala,Bayern München,12,10.0,33
+bundesliga,Bundesliga,2022,8,J. Hofmann,Borussia Mönchengladbach,12,9.0,31
+bundesliga,Bundesliga,2022,9,M. Ducksch,Werder Bremen,12,6.0,34
+bundesliga,Bundesliga,2022,10,S. Guirassy,Borussia Dortmund,12,1.0,25
+bundesliga,Bundesliga,2022,11,A. Kramarić,1899 Hoffenheim,12,3.0,32
+bundesliga,Bundesliga,2022,12,S. Becker,Union Berlin,11,7.0,34
+bundesliga,Bundesliga,2022,13,M. Bülter,1. FC Köln,11,1.0,33
+bundesliga,Bundesliga,2022,14,D. Lukebakio,Hertha BSC,11,3.0,32
+bundesliga,Bundesliga,2022,15,M. Gregoritsch,SC Freiburg,10,4.0,30
+bundesliga,Bundesliga,2022,16,K. Onisiwo,FSV Mainz 05,10,2.0,31
+bundesliga,Bundesliga,2022,17,E. Choupo-Moting,Bayern München,10,2.0,20
+bundesliga,Bundesliga,2022,18,M. Ingvartsen,FSV Mainz 05,10,,28
+bundesliga,Bundesliga,2023,1,H. Kane,Bayern München,36,8.0,32
+bundesliga,Bundesliga,2023,2,S. Guirassy,VfB Stuttgart,28,3.0,28
+bundesliga,Bundesliga,2023,3,L. Openda,RB Leipzig,24,7.0,34
+bundesliga,Bundesliga,2023,4,D. Undav,VfB Stuttgart,18,10.0,30
+bundesliga,Bundesliga,2023,5,M. Beier,1899 Hoffenheim,16,1.0,33
+bundesliga,Bundesliga,2023,6,E. Demirović,FC Augsburg,15,9.0,33
+bundesliga,Bundesliga,2023,7,A. Kramarić,1899 Hoffenheim,15,6.0,30
+bundesliga,Bundesliga,2023,8,B. Šeško,RB Leipzig,14,2.0,31
+bundesliga,Bundesliga,2023,9,V. Boniface,Bayer Leverkusen,14,8.0,23
+bundesliga,Bundesliga,2023,10,D. Malen,Borussia Dortmund,13,1.0,27
+bundesliga,Bundesliga,2023,11,Omar Marmoush,Eintracht Frankfurt,12,6.0,29
+bundesliga,Bundesliga,2023,12,T. Kleindienst,1. FC Heidenheim,12,3.0,33
+bundesliga,Bundesliga,2023,13,N. Füllkrug,Borussia Dortmund,12,8.0,29
+bundesliga,Bundesliga,2023,14,M. Ducksch,Werder Bremen,12,9.0,33
+bundesliga,Bundesliga,2023,15,J. Wind,VfL Wolfsburg,11,7.0,34
+bundesliga,Bundesliga,2023,16,F. Wirtz,Bayer Leverkusen,11,11.0,32
+bundesliga,Bundesliga,2023,17,Álex Grimaldo,Bayer Leverkusen,10,13.0,33
+bundesliga,Bundesliga,2023,18,J. Musiala,Bayern München,10,5.0,24
+bundesliga,Bundesliga,2023,19,E. Dinkçi,1. FC Heidenheim,10,4.0,33
+bundesliga,Bundesliga,2023,20,R. Hack,Borussia Mönchengladbach,10,2.0,29
+bundesliga,Bundesliga,2024,1,H. Kane,Bayern München,26,8.0,31
+bundesliga,Bundesliga,2024,2,P. Schick,Bayer Leverkusen,21,0.0,33
+bundesliga,Bundesliga,2024,3,S. Guirassy,Borussia Dortmund,21,2.0,30
+bundesliga,Bundesliga,2024,4,J. Burkardt,FSV Mainz 05,18,2.0,29
+bundesliga,Bundesliga,2024,5,T. Kleindienst,Borussia Mönchengladbach,16,7.0,31
+bundesliga,Bundesliga,2024,6,E. Demirović,VfB Stuttgart,15,1.0,34
+bundesliga,Bundesliga,2024,7,H. Ekitike,Eintracht Frankfurt,15,8.0,33
+bundesliga,Bundesliga,2024,8,Omar Marmoush,Eintracht Frankfurt,15,9.0,17
+bundesliga,Bundesliga,2024,9,B. Šeško,RB Leipzig,13,5.0,33
+bundesliga,Bundesliga,2024,10,M. Olise,Bayern München,12,15.0,34
+bundesliga,Bundesliga,2024,11,J. Musiala,Bayern München,12,2.0,25
+bundesliga,Bundesliga,2024,12,N. Woltemade,VfB Stuttgart,12,2.0,28
+bundesliga,Bundesliga,2024,13,L. Sané,Bayern München,11,5.0,30
+bundesliga,Bundesliga,2024,14,A. Pléa,Borussia Mönchengladbach,11,4.0,30
+bundesliga,Bundesliga,2024,15,S. Machino,Borussia Mönchengladbach,11,2.0,34
+bundesliga,Bundesliga,2024,16,A. Kramarić,1899 Hoffenheim,11,8.0,32
+bundesliga,Bundesliga,2024,17,R. Dōan,Eintracht Frankfurt,10,7.0,34
+bundesliga,Bundesliga,2024,18,X. Simons,RB Leipzig,10,6.0,25
+ligue1,Ligue 1,2022,1,Kylian Mbappé,Paris Saint Germain,29,5.0,34
+ligue1,Ligue 1,2022,2,A. Lacazette,Lyon,27,5.0,35
+ligue1,Ligue 1,2022,3,J. David,Lille,24,4.0,37
+ligue1,Ligue 1,2022,4,L. Openda,Lens,21,4.0,38
+ligue1,Ligue 1,2022,5,F. Balogun,Monaco,21,2.0,37
+ligue1,Ligue 1,2022,6,H. Diallo,Strasbourg,20,1.0,37
+ligue1,Ligue 1,2022,7,E. Wahi,Montpellier,19,5.0,33
+ligue1,Ligue 1,2022,8,W. Ben Yedder,Monaco,19,6.0,32
+ligue1,Ligue 1,2022,9,L. Messi,Paris Saint Germain,16,16.0,32
+ligue1,Ligue 1,2022,10,A. Gouiri,Rennes,15,,33
+ligue1,Ligue 1,2022,11,A. Sánchez,Marseille,14,3.0,35
+ligue1,Ligue 1,2022,12,G. Laborde,Nice,13,3.0,33
+ligue1,Ligue 1,2022,13,Neymar,Paris Saint Germain,13,11.0,20
+ligue1,Ligue 1,2022,14,B. Embolo,Monaco,12,2.0,32
+ligue1,Ligue 1,2022,15,T. Dallinga,Toulouse,12,1.0,37
+ligue1,Ligue 1,2022,16,T. Moffi,Lorient,12,,18
+ligue1,Ligue 1,2022,17,Mama Baldé,Estac Troyes,12,3.0,34
+ligue1,Ligue 1,2022,18,T. Savanier,Montpellier,12,4.0,30
+ligue1,Ligue 1,2022,19,Z. Aboukhlal,Toulouse,10,5.0,37
+ligue1,Ligue 1,2023,1,Kylian Mbappé,Paris Saint Germain,27,7.0,29
+ligue1,Ligue 1,2023,2,J. David,Lille,19,4.0,34
+ligue1,Ligue 1,2023,3,A. Lacazette,Lyon,19,2.0,29
+ligue1,Ligue 1,2023,4,P. Aubameyang,Marseille,17,8.0,34
+ligue1,Ligue 1,2023,5,W. Ben Yedder,Monaco,16,2.0,32
+ligue1,Ligue 1,2023,6,T. Dallinga,Toulouse,14,2.0,33
+ligue1,Ligue 1,2023,7,Gonçalo Ramos,Paris Saint Germain,11,1.0,29
+ligue1,Ligue 1,2023,8,T. Moffi,Nice,11,2.0,30
+ligue1,Ligue 1,2023,9,A. Kalimuendo,Rennes,10,1.0,30
+ligue1,Ligue 1,2023,10,T. Minamino,Monaco,9,6.0,30
+ligue1,Ligue 1,2023,11,E. Wahi,Lens,9,3.0,27
+ligue1,Ligue 1,2023,12,T. Savanier,Montpellier,9,7.0,32
+ligue1,Ligue 1,2023,13,B. Bourigeaud,Rennes,9,6.0,32
+ligue1,Ligue 1,2023,14,A. Adams,Montpellier,8,1.0,32
+ligue1,Ligue 1,2023,15,E. Emegha,Strasbourg,8,1.0,28
+ligue1,Ligue 1,2023,16,M. Bamba,Lorient,8,3.0,16
+ligue1,Ligue 1,2023,17,R. Del Castillo,Stade Brestois 29,8,8.0,33
+ligue1,Ligue 1,2023,18,Mostafa Mohamed,Nantes,8,2.0,29
+ligue1,Ligue 1,2023,19,M. Cham,Clermont Foot,8,4.0,33
+ligue1,Ligue 1,2023,20,F. Balogun,Monaco,7,5.0,29
+ligue1,Ligue 1,2024,1,M. Greenwood,Marseille,22,5.0,34
+ligue1,Ligue 1,2024,2,O. Dembélé,Paris Saint Germain,21,7.0,30
+ligue1,Ligue 1,2024,3,A. Kalimuendo,Rennes,17,3.0,33
+ligue1,Ligue 1,2024,4,J. David,Lille,16,5.0,32
+ligue1,Ligue 1,2024,5,A. Lacazette,Lyon,15,2.0,30
+ligue1,Ligue 1,2024,6,B. Barcola,Paris Saint Germain,14,10.0,34
+ligue1,Ligue 1,2024,7,E. Emegha,Strasbourg,14,3.0,27
+ligue1,Ligue 1,2024,8,L. Ajorque,Stade Brestois 29,13,2.0,31
+ligue1,Ligue 1,2024,9,M. Biereth,Monaco,13,2.0,17
+ligue1,Ligue 1,2024,10,E. Guessand,Nice,12,8.0,33
+ligue1,Ligue 1,2024,11,L. Stassin,Saint Etienne,12,4.0,28
+ligue1,Ligue 1,2024,12,Keito Nakamura,Reims,11,2.0,34
+ligue1,Ligue 1,2024,13,G. Mikautadze,Lyon,11,6.0,34
+ligue1,Ligue 1,2024,14,G. Laborde,Nice,11,4.0,28
+ligue1,Ligue 1,2024,15,G. Perrin,Auxerre,10,11.0,34
+ligue1,Ligue 1,2024,16,Andrey Santos,Strasbourg,10,3.0,32
+ligue1,Ligue 1,2024,17,A. Gouiri,Marseille,10,3.0,14
+ligue1,Ligue 1,2024,18,H. Traorè,Auxerre,10,2.0,26
+ligue1,Ligue 1,2024,19,Gonçalo Ramos,Paris Saint Germain,10,3.0,22
+brasileirao,Serie A,2022,1,G. Cano,Fluminense,26,3.0,38
+brasileirao,Serie A,2022,2,Pedro Raul,Goias,19,2.0,34
+brasileirao,Serie A,2022,3,J. Calleri,Sao Paulo,18,2.0,36
+brasileirao,Serie A,2022,4,Bissoli,Avai,14,,32
+brasileirao,Serie A,2022,5,Marcos Leonardo,Santos,13,2.0,35
+brasileirao,Serie A,2022,6,Rony,Palmeiras,12,2.0,33
+brasileirao,Serie A,2022,7,Hulk,Atletico-MG,12,1.0,25
+brasileirao,Serie A,2022,8,D. Terans,Atletico Paranaense,12,4.0,31
+brasileirao,Serie A,2022,9,Pedro,Flamengo,11,2.0,24
+brasileirao,Serie A,2022,10,Gabriel Barbosa,Flamengo,11,1.0,29
+brasileirao,Serie A,2022,11,Luciano,Sao Paulo,11,2.0,31
+brasileirao,Serie A,2022,12,Luan Cândido,RB Bragantino,11,,32
+brasileirao,Serie A,2022,13,Róger Guedes,Corinthians,10,1.0,36
+brasileirao,Serie A,2022,14,S. Mendoza,Ceara,10,1.0,29
+brasileirao,Serie A,2022,15,G. Gómez,Palmeiras,9,,30
+brasileirao,Serie A,2022,16,Alef Manga,Coritiba,9,5.0,35
+brasileirao,Serie A,2022,17,Alemão,Internacional,8,5.0,34
+brasileirao,Serie A,2022,18,Wellington Rato,Atletico Goianiense,8,3.0,36
+brasileirao,Serie A,2022,19,Yuri Alberto,Corinthians,8,1.0,20
+brasileirao,Serie A,2022,20,Léo Gamalho,Coritiba,8,,28
+brasileirao,Serie A,2023,1,Paulinho,Atletico-MG,18,1.0,35
+brasileirao,Serie A,2023,2,L. Suárez,Gremio,17,11.0,32
+brasileirao,Serie A,2023,3,Tiquinho Soares,Botafogo,17,4.0,33
+brasileirao,Serie A,2023,4,Hulk,Atletico-MG,15,10.0,33
+brasileirao,Serie A,2023,5,Marcos Leonardo,Santos,13,2.0,29
+brasileirao,Serie A,2023,6,Pedro,Flamengo,13,,34
+brasileirao,Serie A,2023,7,Vitor Roque,Atletico Paranaense,12,3.0,25
+brasileirao,Serie A,2023,8,Deyverson,Cuiaba,12,2.0,36
+brasileirao,Serie A,2023,9,Robson,Coritiba,12,4.0,32
+brasileirao,Serie A,2023,10,Endrick,Palmeiras,11,,37
+brasileirao,Serie A,2023,11,G. Mastriani,America Mineiro,11,1.0,24
+brasileirao,Serie A,2023,12,Eduardo Sasha,RB Bragantino,11,3.0,33
+brasileirao,Serie A,2023,13,P. Vegetti,Vasco DA Gama,10,1.0,21
+brasileirao,Serie A,2023,14,T. Borbas,RB Bragantino,9,2.0,34
+brasileirao,Serie A,2023,15,Raphael Veiga,Palmeiras,9,7.0,31
+brasileirao,Serie A,2023,16,Everaldo,Bahia,9,1.0,33
+brasileirao,Serie A,2023,17,J. Calleri,Sao Paulo,9,1.0,19
+brasileirao,Serie A,2023,18,Gabriel Pec,Vasco DA Gama,8,4.0,35
+brasileirao,Serie A,2024,1,Yuri Alberto,Corinthians,15,4.0,29
+brasileirao,Serie A,2024,2,Alerrandro,Vitoria,15,4.0,35
+brasileirao,Serie A,2024,3,Estêvão,Palmeiras,13,9.0,31
+brasileirao,Serie A,2024,4,P. Vegetti,Vasco DA Gama,12,2.0,35
+brasileirao,Serie A,2024,5,Wesley,Internacional,11,1.0,33
+brasileirao,Serie A,2024,6,Luciano,Sao Paulo,11,2.0,32
+brasileirao,Serie A,2024,7,Pedro,Flamengo,11,5.0,21
+brasileirao,Serie A,2024,8,Raphael Veiga,Palmeiras,11,3.0,34
+brasileirao,Serie A,2024,9,J. López,Palmeiras,10,2.0,36
+brasileirao,Serie A,2024,10,R. Garro,Corinthians,10,10.0,36
+brasileirao,Serie A,2024,11,Lucas Moura,Sao Paulo,10,6.0,28
+brasileirao,Serie A,2024,12,Hulk,Atletico-MG,10,5.0,23
+brasileirao,Serie A,2024,13,R. Borré,Internacional,9,3.0,23
+brasileirao,Serie A,2024,14,J. Savarino,Botafogo,8,7.0,28
+brasileirao,Serie A,2024,15,Y. Bolasie,Criciuma,8,4.0,34
+brasileirao,Serie A,2024,16,M. Braithwaite,Gremio,8,2.0,18
+brasileirao,Serie A,2024,17,Paulinho,Palmeiras,8,1.0,25
+brasileirao,Serie A,2024,18,Luiz Fernando,Atletico Paranaense,8,0.0,31
+brasileirao,Serie A,2024,19,Eduardo Sasha,RB Bragantino,8,4.0,28
+argentina,Liga Profesional Argentina,2022,1,M. Retegui,Tigre,22,4.0,40
+argentina,Liga Profesional Argentina,2022,2,E. Copetti,Racing Club,19,4.0,40
+argentina,Liga Profesional Argentina,2022,3,M. Boselli,Estudiantes L.P.,17,1.0,33
+argentina,Liga Profesional Argentina,2022,4,F. Cristaldo,Huracan,17,10.0,41
+argentina,Liga Profesional Argentina,2022,5,R. López,Central Cordoba de Santiago,16,4.0,30
+argentina,Liga Profesional Argentina,2022,6,M. Cauteruccio,Aldosivi,15,3.0,29
+argentina,Liga Profesional Argentina,2022,7,L. Díaz,Estudiantes L.P.,12,4.0,34
+argentina,Liga Profesional Argentina,2022,8,D. Benedetto,Boca Juniors,12,2.0,31
+argentina,Liga Profesional Argentina,2022,9,M. Ojeda,Godoy Cruz,12,12.0,41
+argentina,Liga Profesional Argentina,2022,10,S. Rodríguez,Godoy Cruz,11,1.0,38
+argentina,Liga Profesional Argentina,2022,11,G. Ávalos,Argentinos JRS,11,7.0,35
+argentina,Liga Profesional Argentina,2022,12,J. Álvarez,River Plate,11,2.0,17
+argentina,Liga Profesional Argentina,2022,13,S. Lomónaco,Arsenal Sarandi,11,5.0,38
+argentina,Liga Profesional Argentina,2022,14,L. Janson,Velez Sarsfield,11,3.0,39
+argentina,Liga Profesional Argentina,2022,15,L. Janson,Velez Sarsfield,11,3.0,39
+argentina,Liga Profesional Argentina,2022,16,L. Rodríguez,Colon Santa Fe,11,4.0,31
+argentina,Liga Profesional Argentina,2022,17,F. Kruspzky,Arsenal Sarandi,10,5.0,37
+argentina,Liga Profesional Argentina,2022,18,R. Ábila,Colon Santa Fe,10,1.0,35
+argentina,Liga Profesional Argentina,2022,19,A. Bareiro,San Lorenzo,10,3.0,35
+argentina,Liga Profesional Argentina,2022,20,C. Tarragona,Gimnasia L.P.,10,,17
+argentina,Copa de la Liga Profesional,2023,1,G. Ávalos,Argentinos JRS,17,3.0,36
+argentina,Copa de la Liga Profesional,2023,2,A. Martínez,Instituto Cordoba,16,4.0,38
+argentina,Copa de la Liga Profesional,2023,3,M. Merentiel,Boca Juniors,14,3.0,31
+argentina,Copa de la Liga Profesional,2023,4,L. Díaz,Lanus,14,3.0,33
+argentina,Copa de la Liga Profesional,2023,5,M. Santos,Talleres Cordoba,13,5.0,24
+argentina,Copa de la Liga Profesional,2023,6,P. Vegetti,Belgrano Cordoba,13,1.0,27
+argentina,Copa de la Liga Profesional,2023,7,N. Fernández,Defensa Y Justicia,13,1.0,35
+argentina,Copa de la Liga Profesional,2023,8,L. Beltrán,River Plate,12,3.0,25
+argentina,Copa de la Liga Profesional,2023,9,A. Véliz,Rosario Central,11,,23
+argentina,Copa de la Liga Profesional,2023,10,M. Retegui,Tigre,11,1.0,21
+argentina,Copa de la Liga Profesional,2023,11,A. Bareiro,San Lorenzo,11,2.0,30
+argentina,Copa de la Liga Profesional,2023,12,M. Cauteruccio,Independiente,11,1.0,35
+argentina,Copa de la Liga Profesional,2023,13,R. Ábila,Colon Santa Fe,10,5.0,39
+argentina,Copa de la Liga Profesional,2023,14,T. Allende,Godoy Cruz,10,3.0,37
+argentina,Copa de la Liga Profesional,2023,15,N. Bustos,Talleres Cordoba,10,,33
+argentina,Copa de la Liga Profesional,2023,16,M. Coronel,Atletico Tucuman,10,1.0,40
+argentina,Copa de la Liga Profesional,2023,17,L. Passerini,Belgrano Cordoba,10,1.0,15
+argentina,Copa de la Liga Profesional,2023,18,S. Rondón,River Plate,10,,37
+argentina,Copa de la Liga Profesional,2023,19,M. Boselli,Estudiantes L.P.,10,1.0,31
+argentina,Liga Profesional Argentina,2024,1,M. Borja,River Plate,24,1.0,35
+argentina,Liga Profesional Argentina,2024,2,A. Martínez,Instituto Cordoba,19,4.0,34
+argentina,Liga Profesional Argentina,2024,3,B. Romero,Velez Sarsfield,18,5.0,43
+argentina,Liga Profesional Argentina,2024,4,F. Jara,Belgrano Cordoba,15,1.0,24
+argentina,Liga Profesional Argentina,2024,5,Mateo Pellegrino,Platense,15,1.0,38
+argentina,Liga Profesional Argentina,2024,6,M. Merentiel,Boca Juniors,14,4.0,37
+argentina,Liga Profesional Argentina,2024,7,W. Bou,Lanus,13,5.0,35
+argentina,Liga Profesional Argentina,2024,8,F. Colidio,River Plate,13,1.0,37
+argentina,Liga Profesional Argentina,2024,9,G. Carrillo,Estudiantes L.P.,12,3.0,31
+argentina,Liga Profesional Argentina,2024,10,J. Herrera,Deportivo Riestra,12,1.0,39
+argentina,Liga Profesional Argentina,2024,11,I. Ramírez,Newells Old Boys,12,0.0,40
+argentina,Liga Profesional Argentina,2024,12,A. Lescano,Argentinos JRS,11,4.0,42
+argentina,Liga Profesional Argentina,2024,13,E. Cavani,Boca Juniors,11,1.0,28
+argentina,Liga Profesional Argentina,2024,14,D. Puebla,Instituto Cordoba,11,4.0,39
+argentina,Liga Profesional Argentina,2024,15,G. Ávalos,Independiente,10,2.0,41
+argentina,Liga Profesional Argentina,2024,16,C. Aquino,Velez Sarsfield,10,9.0,44
+argentina,Liga Profesional Argentina,2024,17,M. Moreno,Lanus,9,11.0,39
+argentina,Liga Profesional Argentina,2024,18,P. Solari,River Plate,9,3.0,32
+argentina,Liga Profesional Argentina,2024,19,F. Girotti,Talleres Cordoba,9,0.0,38

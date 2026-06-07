@@ -87,3 +87,397 @@ premier,Premier League,2023,17,Nottingham Forest,32,38,9,9,20,49,67,-18
 premier,Premier League,2023,18,Luton,26,38,6,8,24,52,85,-33
 premier,Premier League,2023,19,Burnley,24,38,5,9,24,41,78,-37
 premier,Premier League,2023,20,Sheffield Utd,16,38,3,7,28,35,104,-69
+premier,Premier League,2024,1,Liverpool,84,38,25,9,4,86,41,45
+premier,Premier League,2024,2,Arsenal,74,38,20,14,4,69,34,35
+premier,Premier League,2024,3,Manchester City,71,38,21,8,9,72,44,28
+premier,Premier League,2024,4,Chelsea,69,38,20,9,9,64,43,21
+premier,Premier League,2024,5,Newcastle,66,38,20,6,12,68,47,21
+premier,Premier League,2024,6,Aston Villa,66,38,19,9,10,58,51,7
+premier,Premier League,2024,7,Nottingham Forest,65,38,19,8,11,58,46,12
+premier,Premier League,2024,8,Brighton,61,38,16,13,9,66,59,7
+premier,Premier League,2024,9,Bournemouth,56,38,15,11,12,58,46,12
+premier,Premier League,2024,10,Brentford,56,38,16,8,14,66,57,9
+premier,Premier League,2024,11,Fulham,54,38,15,9,14,54,54,0
+premier,Premier League,2024,12,Crystal Palace,53,38,13,14,11,51,51,0
+premier,Premier League,2024,13,Everton,48,38,11,15,12,42,44,-2
+premier,Premier League,2024,14,West Ham,43,38,11,10,17,46,62,-16
+premier,Premier League,2024,15,Manchester United,42,38,11,9,18,44,54,-10
+premier,Premier League,2024,16,Wolves,42,38,12,6,20,54,69,-15
+premier,Premier League,2024,17,Tottenham,38,38,11,5,22,64,65,-1
+premier,Premier League,2024,18,Leicester,25,38,6,7,25,33,80,-47
+premier,Premier League,2024,19,Ipswich,22,38,4,10,24,36,82,-46
+premier,Premier League,2024,20,Southampton,12,38,2,6,30,26,86,-60
+laliga,La Liga,2022,1,Barcelona,88,38,28,4,6,70,20,50
+laliga,La Liga,2022,2,Real Madrid,78,38,24,6,8,75,36,39
+laliga,La Liga,2022,3,Atletico Madrid,77,38,23,8,7,70,33,37
+laliga,La Liga,2022,4,Real Sociedad,71,38,21,8,9,51,35,16
+laliga,La Liga,2022,5,Villarreal,64,38,19,7,12,59,40,19
+laliga,La Liga,2022,6,Real Betis,60,38,17,9,12,46,41,5
+laliga,La Liga,2022,7,Osasuna,53,38,15,8,15,37,42,-5
+laliga,La Liga,2022,8,Athletic Club,51,38,14,9,15,47,43,4
+laliga,La Liga,2022,9,Mallorca,50,38,14,8,16,37,43,-6
+laliga,La Liga,2022,10,Girona,49,38,13,10,15,58,55,3
+laliga,La Liga,2022,11,Rayo Vallecano,49,38,13,10,15,45,53,-8
+laliga,La Liga,2022,12,Sevilla,49,38,13,10,15,47,54,-7
+laliga,La Liga,2022,13,Celta Vigo,43,38,11,10,17,43,53,-10
+laliga,La Liga,2022,14,Cadiz,42,38,10,12,16,30,53,-23
+laliga,La Liga,2022,15,Getafe,42,38,10,12,16,34,45,-11
+laliga,La Liga,2022,16,Valencia,42,38,11,9,18,42,45,-3
+laliga,La Liga,2022,17,Almeria,41,38,11,8,19,49,65,-16
+laliga,La Liga,2022,18,Valladolid,40,38,11,7,20,33,63,-30
+laliga,La Liga,2022,19,Espanyol,37,38,8,13,17,52,69,-17
+laliga,La Liga,2022,20,Elche,25,38,5,10,23,30,67,-37
+laliga,La Liga,2023,1,Real Madrid,95,38,29,8,1,87,26,61
+laliga,La Liga,2023,2,Barcelona,85,38,26,7,5,79,44,35
+laliga,La Liga,2023,3,Girona,81,38,25,6,7,85,46,39
+laliga,La Liga,2023,4,Atletico Madrid,76,38,24,4,10,70,43,27
+laliga,La Liga,2023,5,Athletic Club,68,38,19,11,8,61,37,24
+laliga,La Liga,2023,6,Real Sociedad,60,38,16,12,10,51,39,12
+laliga,La Liga,2023,7,Real Betis,57,38,14,15,9,48,45,3
+laliga,La Liga,2023,8,Villarreal,53,38,14,11,13,65,65,0
+laliga,La Liga,2023,9,Valencia,49,38,13,10,15,40,45,-5
+laliga,La Liga,2023,10,Alaves,46,38,12,10,16,36,46,-10
+laliga,La Liga,2023,11,Osasuna,45,38,12,9,17,45,56,-11
+laliga,La Liga,2023,12,Getafe,43,38,10,13,15,42,54,-12
+laliga,La Liga,2023,13,Celta Vigo,41,38,10,11,17,46,57,-11
+laliga,La Liga,2023,14,Sevilla,41,38,10,11,17,48,54,-6
+laliga,La Liga,2023,15,Mallorca,40,38,8,16,14,33,44,-11
+laliga,La Liga,2023,16,Las Palmas,40,38,10,10,18,33,47,-14
+laliga,La Liga,2023,17,Rayo Vallecano,38,38,8,14,16,29,48,-19
+laliga,La Liga,2023,18,Cadiz,33,38,6,15,17,26,55,-29
+laliga,La Liga,2023,19,Almeria,21,38,3,12,23,43,75,-32
+laliga,La Liga,2023,20,Granada CF,21,38,4,9,25,38,79,-41
+laliga,La Liga,2024,1,Barcelona,88,38,28,4,6,102,39,63
+laliga,La Liga,2024,2,Real Madrid,84,38,26,6,6,78,38,40
+laliga,La Liga,2024,3,Atletico Madrid,76,38,22,10,6,68,30,38
+laliga,La Liga,2024,4,Athletic Club,70,38,19,13,6,54,29,25
+laliga,La Liga,2024,5,Villarreal,70,38,20,10,8,71,51,20
+laliga,La Liga,2024,6,Real Betis,60,38,16,12,10,57,50,7
+laliga,La Liga,2024,7,Celta Vigo,55,38,16,7,15,59,57,2
+laliga,La Liga,2024,8,Rayo Vallecano,52,38,13,13,12,41,45,-4
+laliga,La Liga,2024,9,Osasuna,52,38,12,16,10,48,52,-4
+laliga,La Liga,2024,10,Mallorca,48,38,13,9,16,35,44,-9
+laliga,La Liga,2024,11,Real Sociedad,46,38,13,7,18,35,46,-11
+laliga,La Liga,2024,12,Valencia,46,38,11,13,14,44,54,-10
+laliga,La Liga,2024,13,Getafe,42,38,11,9,18,34,39,-5
+laliga,La Liga,2024,14,Espanyol,42,38,11,9,18,40,51,-11
+laliga,La Liga,2024,15,Alaves,42,38,10,12,16,38,48,-10
+laliga,La Liga,2024,16,Girona,41,38,11,8,19,44,60,-16
+laliga,La Liga,2024,17,Sevilla,41,38,10,11,17,42,55,-13
+laliga,La Liga,2024,18,Leganes,40,38,9,13,16,39,56,-17
+laliga,La Liga,2024,19,Las Palmas,32,38,8,8,22,40,61,-21
+laliga,La Liga,2024,20,Valladolid,16,38,4,4,30,26,90,-64
+seriea,Serie A,2022,1,Napoli,90,38,28,6,4,77,28,49
+seriea,Serie A,2022,2,Lazio,74,38,22,8,8,60,30,30
+seriea,Serie A,2022,3,Inter,72,38,23,3,12,71,42,29
+seriea,Serie A,2022,4,AC Milan,70,38,20,10,8,64,43,21
+seriea,Serie A,2022,5,Atalanta,64,38,19,7,12,66,48,18
+seriea,Serie A,2022,6,AS Roma,63,38,18,9,11,50,38,12
+seriea,Serie A,2022,7,Juventus,62,38,22,6,10,56,33,23
+seriea,Serie A,2022,8,Fiorentina,56,38,15,11,12,53,43,10
+seriea,Serie A,2022,9,Bologna,54,38,14,12,12,53,49,4
+seriea,Serie A,2022,10,Torino,53,38,14,11,13,42,41,1
+seriea,Serie A,2022,11,Monza,52,38,14,10,14,48,52,-4
+seriea,Serie A,2022,12,Udinese,46,38,11,13,14,47,48,-1
+seriea,Serie A,2022,13,Sassuolo,45,38,12,9,17,47,61,-14
+seriea,Serie A,2022,14,Empoli,43,38,10,13,15,37,49,-12
+seriea,Serie A,2022,15,Salernitana,42,38,9,15,14,48,62,-14
+seriea,Serie A,2022,16,Lecce,36,38,8,12,18,33,46,-13
+seriea,Serie A,2022,17,Spezia,31,38,6,13,19,31,62,-31
+seriea,Serie A,2022,18,Verona,31,38,7,10,21,31,59,-28
+seriea,Serie A,2022,19,Cremonese,27,38,5,12,21,36,69,-33
+seriea,Serie A,2022,20,Sampdoria,19,38,3,10,25,24,71,-47
+seriea,Serie A,2023,1,Inter,94,38,29,7,2,89,22,67
+seriea,Serie A,2023,2,AC Milan,75,38,22,9,7,76,49,27
+seriea,Serie A,2023,3,Juventus,71,38,19,14,5,54,31,23
+seriea,Serie A,2023,4,Atalanta,69,38,21,6,11,72,42,30
+seriea,Serie A,2023,5,Bologna,68,38,18,14,6,54,32,22
+seriea,Serie A,2023,6,AS Roma,63,38,18,9,11,65,46,19
+seriea,Serie A,2023,7,Lazio,61,38,18,7,13,49,39,10
+seriea,Serie A,2023,8,Fiorentina,60,38,17,9,12,61,46,15
+seriea,Serie A,2023,9,Torino,53,38,13,14,11,36,36,0
+seriea,Serie A,2023,10,Napoli,53,38,13,14,11,55,48,7
+seriea,Serie A,2023,11,Genoa,49,38,12,13,13,45,45,0
+seriea,Serie A,2023,12,Monza,45,38,11,12,15,39,51,-12
+seriea,Serie A,2023,13,Verona,38,38,9,11,18,38,51,-13
+seriea,Serie A,2023,14,Lecce,38,38,8,14,16,32,54,-22
+seriea,Serie A,2023,15,Udinese,37,38,6,19,13,37,53,-16
+seriea,Serie A,2023,16,Cagliari,36,38,8,12,18,42,68,-26
+seriea,Serie A,2023,17,Empoli,36,38,9,9,20,29,54,-25
+seriea,Serie A,2023,18,Frosinone,35,38,8,11,19,44,69,-25
+seriea,Serie A,2023,19,Sassuolo,30,38,7,9,22,43,75,-32
+seriea,Serie A,2023,20,Salernitana,17,38,2,11,25,32,81,-49
+seriea,Serie A,2024,1,Napoli,82,38,24,10,4,59,27,32
+seriea,Serie A,2024,2,Inter,81,38,24,9,5,79,35,44
+seriea,Serie A,2024,3,Atalanta,74,38,22,8,8,78,37,41
+seriea,Serie A,2024,4,Juventus,70,38,18,16,4,58,35,23
+seriea,Serie A,2024,5,AS Roma,69,38,20,9,9,56,35,21
+seriea,Serie A,2024,6,Fiorentina,65,38,19,8,11,60,41,19
+seriea,Serie A,2024,7,Lazio,65,38,18,11,9,61,49,12
+seriea,Serie A,2024,8,AC Milan,63,38,18,9,11,61,43,18
+seriea,Serie A,2024,9,Bologna,62,38,16,14,8,57,47,10
+seriea,Serie A,2024,10,Como,49,38,13,10,15,49,52,-3
+seriea,Serie A,2024,11,Torino,44,38,10,14,14,39,45,-6
+seriea,Serie A,2024,12,Udinese,44,38,12,8,18,41,56,-15
+seriea,Serie A,2024,13,Genoa,43,38,10,13,15,37,49,-12
+seriea,Serie A,2024,14,Verona,37,38,10,7,21,34,66,-32
+seriea,Serie A,2024,15,Cagliari,36,38,9,9,20,40,56,-16
+seriea,Serie A,2024,16,Parma,36,38,7,15,16,44,58,-14
+seriea,Serie A,2024,17,Lecce,34,38,8,10,20,27,58,-31
+seriea,Serie A,2024,18,Empoli,31,38,6,13,19,33,59,-26
+seriea,Serie A,2024,19,Venezia,29,38,5,14,19,32,56,-24
+seriea,Serie A,2024,20,Monza,18,38,3,9,26,28,69,-41
+bundesliga,Bundesliga,2022,1,Bayern Munich,71,34,21,8,5,92,38,54
+bundesliga,Bundesliga,2022,2,Borussia Dortmund,71,34,22,5,7,83,44,39
+bundesliga,Bundesliga,2022,3,RB Leipzig,66,34,20,6,8,64,41,23
+bundesliga,Bundesliga,2022,4,Union Berlin,62,34,18,8,8,51,38,13
+bundesliga,Bundesliga,2022,5,SC Freiburg,59,34,17,8,9,51,44,7
+bundesliga,Bundesliga,2022,6,Bayer Leverkusen,50,34,14,8,12,57,49,8
+bundesliga,Bundesliga,2022,7,Eintracht Frankfurt,50,34,13,11,10,58,52,6
+bundesliga,Bundesliga,2022,8,VfL Wolfsburg,49,34,13,10,11,57,48,9
+bundesliga,Bundesliga,2022,9,FSV Mainz 05,46,34,12,10,12,54,55,-1
+bundesliga,Bundesliga,2022,10,Borussia Monchengladbach,43,34,11,10,13,52,55,-3
+bundesliga,Bundesliga,2022,11,FC Koln,42,34,10,12,12,49,54,-5
+bundesliga,Bundesliga,2022,12,1899 Hoffenheim,36,34,10,6,18,48,57,-9
+bundesliga,Bundesliga,2022,13,Werder Bremen,36,34,10,6,18,51,64,-13
+bundesliga,Bundesliga,2022,14,VfL BOCHUM,35,34,10,5,19,40,72,-32
+bundesliga,Bundesliga,2022,15,FC Augsburg,34,34,9,7,18,42,63,-21
+bundesliga,Bundesliga,2022,16,VfB Stuttgart,33,34,7,12,15,45,57,-12
+bundesliga,Bundesliga,2022,17,FC Schalke 04,31,34,7,10,17,35,71,-36
+bundesliga,Bundesliga,2022,18,Hertha Berlin,29,34,7,8,19,42,69,-27
+bundesliga,Bundesliga,2023,1,Bayer Leverkusen,90,34,28,6,0,89,24,65
+bundesliga,Bundesliga,2023,2,VfB Stuttgart,73,34,23,4,7,78,39,39
+bundesliga,Bundesliga,2023,3,Bayern Munich,72,34,23,3,8,94,45,49
+bundesliga,Bundesliga,2023,4,RB Leipzig,65,34,19,8,7,77,39,38
+bundesliga,Bundesliga,2023,5,Borussia Dortmund,63,34,18,9,7,68,43,25
+bundesliga,Bundesliga,2023,6,Eintracht Frankfurt,47,34,11,14,9,51,50,1
+bundesliga,Bundesliga,2023,7,1899 Hoffenheim,46,34,13,7,14,66,66,0
+bundesliga,Bundesliga,2023,8,FC Heidenheim,42,34,10,12,12,50,55,-5
+bundesliga,Bundesliga,2023,9,Werder Bremen,42,34,11,9,14,48,54,-6
+bundesliga,Bundesliga,2023,10,SC Freiburg,42,34,11,9,14,45,58,-13
+bundesliga,Bundesliga,2023,11,FC Augsburg,39,34,10,9,15,50,60,-10
+bundesliga,Bundesliga,2023,12,VfL Wolfsburg,37,34,10,7,17,41,56,-15
+bundesliga,Bundesliga,2023,13,FSV Mainz 05,35,34,7,14,13,39,51,-12
+bundesliga,Bundesliga,2023,14,Borussia Monchengladbach,34,34,7,13,14,56,67,-11
+bundesliga,Bundesliga,2023,15,Union Berlin,33,34,9,6,19,33,58,-25
+bundesliga,Bundesliga,2023,16,Vfl Bochum,33,34,7,12,15,42,74,-32
+bundesliga,Bundesliga,2023,17,1.FC Köln,27,34,5,12,17,28,60,-32
+bundesliga,Bundesliga,2023,18,SV Darmstadt 98,17,34,3,8,23,30,86,-56
+bundesliga,Bundesliga,2024,1,Bayern München,82,34,25,7,2,99,32,67
+bundesliga,Bundesliga,2024,2,Bayer Leverkusen,69,34,19,12,3,72,43,29
+bundesliga,Bundesliga,2024,3,Eintracht Frankfurt,60,34,17,9,8,68,46,22
+bundesliga,Bundesliga,2024,4,Borussia Dortmund,57,34,17,6,11,71,51,20
+bundesliga,Bundesliga,2024,5,SC Freiburg,55,34,16,7,11,49,53,-4
+bundesliga,Bundesliga,2024,6,FSV Mainz 05,52,34,14,10,10,55,43,12
+bundesliga,Bundesliga,2024,7,RB Leipzig,51,34,13,12,9,53,48,5
+bundesliga,Bundesliga,2024,8,Werder Bremen,51,34,14,9,11,54,57,-3
+bundesliga,Bundesliga,2024,9,VfB Stuttgart,50,34,14,8,12,64,53,11
+bundesliga,Bundesliga,2024,10,Borussia Mönchengladbach,45,34,13,6,15,55,57,-2
+bundesliga,Bundesliga,2024,11,VfL Wolfsburg,43,34,11,10,13,56,54,2
+bundesliga,Bundesliga,2024,12,FC Augsburg,43,34,11,10,13,35,51,-16
+bundesliga,Bundesliga,2024,13,Union Berlin,40,34,10,10,14,35,51,-16
+bundesliga,Bundesliga,2024,14,FC St. Pauli,32,34,8,8,18,28,41,-13
+bundesliga,Bundesliga,2024,15,1899 Hoffenheim,32,34,7,11,16,46,68,-22
+bundesliga,Bundesliga,2024,16,1. FC Heidenheim,29,34,8,5,21,37,64,-27
+bundesliga,Bundesliga,2024,17,Holstein Kiel,25,34,6,7,21,49,80,-31
+bundesliga,Bundesliga,2024,18,VfL Bochum,25,34,6,7,21,33,67,-34
+ligue1,Ligue 1,2022,1,Paris Saint Germain,85,38,27,4,7,89,40,49
+ligue1,Ligue 1,2022,2,Lens,84,38,25,9,4,68,29,39
+ligue1,Ligue 1,2022,3,Marseille,73,38,22,7,9,67,40,27
+ligue1,Ligue 1,2022,4,Rennes,68,38,21,5,12,69,39,30
+ligue1,Ligue 1,2022,5,Lille,67,38,19,10,9,65,44,21
+ligue1,Ligue 1,2022,6,Monaco,65,38,19,8,11,70,58,12
+ligue1,Ligue 1,2022,7,Lyon,62,38,18,8,12,65,47,18
+ligue1,Ligue 1,2022,8,Clermont Foot,59,38,17,8,13,45,49,-4
+ligue1,Ligue 1,2022,9,Nice,58,38,15,13,10,48,37,11
+ligue1,Ligue 1,2022,10,Lorient,55,38,15,10,13,52,53,-1
+ligue1,Ligue 1,2022,11,Reims,51,38,12,15,11,45,45,0
+ligue1,Ligue 1,2022,12,Montpellier,50,38,15,5,18,65,62,3
+ligue1,Ligue 1,2022,13,Toulouse,48,38,13,9,16,51,57,-6
+ligue1,Ligue 1,2022,14,Stade Brestois 29,44,38,11,11,16,44,54,-10
+ligue1,Ligue 1,2022,15,Strasbourg,40,38,9,13,16,51,59,-8
+ligue1,Ligue 1,2022,16,Nantes,36,38,7,15,16,37,55,-18
+ligue1,Ligue 1,2022,17,Auxerre,35,38,8,11,19,35,63,-28
+ligue1,Ligue 1,2022,18,Ajaccio,26,38,7,5,26,23,74,-51
+ligue1,Ligue 1,2022,19,Estac Troyes,24,38,4,12,22,45,81,-36
+ligue1,Ligue 1,2022,20,Angers,18,38,4,6,28,33,81,-48
+ligue1,Ligue 1,2023,1,Paris Saint Germain,76,34,22,10,2,81,33,48
+ligue1,Ligue 1,2023,2,Monaco,67,34,20,7,7,68,42,26
+ligue1,Ligue 1,2023,3,Stade Brestois 29,61,34,17,10,7,53,34,19
+ligue1,Ligue 1,2023,4,Lille,59,34,16,11,7,52,34,18
+ligue1,Ligue 1,2023,5,Nice,55,34,15,10,9,40,29,11
+ligue1,Ligue 1,2023,6,Lyon,53,34,16,5,13,49,55,-6
+ligue1,Ligue 1,2023,7,Lens,51,34,14,9,11,45,37,8
+ligue1,Ligue 1,2023,8,Marseille,50,34,13,11,10,52,41,11
+ligue1,Ligue 1,2023,9,Reims,47,34,13,8,13,42,47,-5
+ligue1,Ligue 1,2023,10,Rennes,46,34,12,10,12,53,46,7
+ligue1,Ligue 1,2023,11,Toulouse,43,34,11,10,13,42,46,-4
+ligue1,Ligue 1,2023,12,Montpellier,41,34,10,12,12,43,48,-5
+ligue1,Ligue 1,2023,13,Strasbourg,39,34,10,9,15,38,50,-12
+ligue1,Ligue 1,2023,14,Nantes,33,34,9,6,19,30,55,-25
+ligue1,Ligue 1,2023,15,LE Havre,32,34,7,11,16,34,45,-11
+ligue1,Ligue 1,2023,16,Metz,29,34,8,5,21,35,58,-23
+ligue1,Ligue 1,2023,17,Lorient,29,34,7,8,19,43,66,-23
+ligue1,Ligue 1,2023,18,Clermont Foot,25,34,5,10,19,26,60,-34
+ligue1,Ligue 1,2024,1,Paris Saint Germain,84,34,26,6,2,92,35,57
+ligue1,Ligue 1,2024,2,Marseille,65,34,20,5,9,74,47,27
+ligue1,Ligue 1,2024,3,Monaco,61,34,18,7,9,63,41,22
+ligue1,Ligue 1,2024,4,Nice,60,34,17,9,8,66,41,25
+ligue1,Ligue 1,2024,5,Lille,60,34,17,9,8,52,36,16
+ligue1,Ligue 1,2024,6,Lyon,57,34,17,6,11,65,46,19
+ligue1,Ligue 1,2024,7,Strasbourg,57,34,16,9,9,56,44,12
+ligue1,Ligue 1,2024,8,Lens,52,34,15,7,12,42,39,3
+ligue1,Ligue 1,2024,9,Stade Brestois 29,50,34,15,5,14,52,59,-7
+ligue1,Ligue 1,2024,10,Toulouse,42,34,11,9,14,44,43,1
+ligue1,Ligue 1,2024,11,Auxerre,42,34,11,9,14,48,51,-3
+ligue1,Ligue 1,2024,12,Rennes,41,34,13,2,19,51,50,1
+ligue1,Ligue 1,2024,13,Nantes,36,34,8,12,14,39,52,-13
+ligue1,Ligue 1,2024,14,Angers,36,34,10,6,18,32,53,-21
+ligue1,Ligue 1,2024,15,Le Havre,34,34,10,4,20,40,71,-31
+ligue1,Ligue 1,2024,16,Reims,33,34,8,9,17,33,47,-14
+ligue1,Ligue 1,2024,17,Saint Etienne,30,34,8,6,20,39,77,-38
+ligue1,Ligue 1,2024,18,Montpellier,16,34,4,4,26,23,79,-56
+brasileirao,Serie A,2022,1,Palmeiras,81,38,23,12,3,66,27,39
+brasileirao,Serie A,2022,2,Internacional,73,38,20,13,5,58,31,27
+brasileirao,Serie A,2022,3,Fluminense,70,38,21,7,10,63,41,22
+brasileirao,Serie A,2022,4,Corinthians,65,38,18,11,9,44,36,8
+brasileirao,Serie A,2022,5,Flamengo,62,38,18,8,12,60,39,21
+brasileirao,Serie A,2022,6,Atletico Paranaense,58,38,16,10,12,48,48,0
+brasileirao,Serie A,2022,7,Atletico-MG,58,38,15,13,10,45,37,8
+brasileirao,Serie A,2022,8,Fortaleza EC,55,38,15,10,13,46,39,7
+brasileirao,Serie A,2022,9,Sao Paulo,54,38,13,15,10,55,42,13
+brasileirao,Serie A,2022,10,America Mineiro,53,38,15,8,15,40,40,0
+brasileirao,Serie A,2022,11,Botafogo,53,38,15,8,15,41,43,-2
+brasileirao,Serie A,2022,12,Santos,47,38,12,11,15,44,41,3
+brasileirao,Serie A,2022,13,Goias,46,38,11,13,14,40,53,-13
+brasileirao,Serie A,2022,14,RB Bragantino,44,38,11,11,16,49,59,-10
+brasileirao,Serie A,2022,15,Coritiba,42,38,12,6,20,39,60,-21
+brasileirao,Serie A,2022,16,Cuiaba,41,38,10,11,17,31,42,-11
+brasileirao,Serie A,2022,17,Ceara,37,38,7,16,15,34,41,-7
+brasileirao,Serie A,2022,18,Atletico Goianiense,36,38,8,12,18,39,57,-18
+brasileirao,Serie A,2022,19,Avai,35,38,9,8,21,34,60,-26
+brasileirao,Serie A,2022,20,Juventude,22,38,3,13,22,29,69,-40
+brasileirao,Serie A,2023,1,Palmeiras,70,38,20,10,8,64,33,31
+brasileirao,Serie A,2023,2,Gremio,68,38,21,5,12,63,56,7
+brasileirao,Serie A,2023,3,Atletico-MG,66,38,19,9,10,52,32,20
+brasileirao,Serie A,2023,4,Flamengo,66,38,19,9,10,56,42,14
+brasileirao,Serie A,2023,5,Botafogo,64,38,18,10,10,58,37,21
+brasileirao,Serie A,2023,6,RB Bragantino,62,38,17,11,10,49,35,14
+brasileirao,Serie A,2023,7,Fluminense,56,38,16,8,14,51,47,4
+brasileirao,Serie A,2023,8,Atletico Paranaense,56,38,14,14,10,51,43,8
+brasileirao,Serie A,2023,9,Internacional,55,38,15,10,13,46,45,1
+brasileirao,Serie A,2023,10,Fortaleza EC,54,38,15,9,14,45,44,1
+brasileirao,Serie A,2023,11,Sao Paulo,53,38,14,11,13,40,38,2
+brasileirao,Serie A,2023,12,Cuiaba,51,38,14,9,15,40,39,1
+brasileirao,Serie A,2023,13,Corinthians,50,38,12,14,12,47,48,-1
+brasileirao,Serie A,2023,14,Cruzeiro,47,38,11,14,13,35,32,3
+brasileirao,Serie A,2023,15,Vasco DA Gama,45,38,12,9,17,41,51,-10
+brasileirao,Serie A,2023,16,Bahia,44,38,12,8,18,50,53,-3
+brasileirao,Serie A,2023,17,Santos,43,38,11,10,17,39,64,-25
+brasileirao,Serie A,2023,18,Goias,38,38,9,11,18,36,53,-17
+brasileirao,Serie A,2023,19,Coritiba,30,38,8,6,24,41,73,-32
+brasileirao,Serie A,2023,20,America Mineiro,24,38,5,9,24,42,81,-39
+brasileirao,Serie A,2024,1,Botafogo,79,38,23,10,5,59,29,30
+brasileirao,Serie A,2024,2,Palmeiras,73,38,22,7,9,60,33,27
+brasileirao,Serie A,2024,3,Flamengo,70,38,20,10,8,61,42,19
+brasileirao,Serie A,2024,4,Fortaleza EC,68,38,19,11,8,53,39,14
+brasileirao,Serie A,2024,5,Internacional,65,38,18,11,9,53,36,17
+brasileirao,Serie A,2024,6,Sao Paulo,59,38,17,8,13,53,43,10
+brasileirao,Serie A,2024,7,Corinthians,56,38,15,11,12,54,45,9
+brasileirao,Serie A,2024,8,Bahia,53,38,15,8,15,49,49,0
+brasileirao,Serie A,2024,9,Cruzeiro,52,38,14,10,14,43,41,2
+brasileirao,Serie A,2024,10,Vasco DA Gama,50,38,14,8,16,43,56,-13
+brasileirao,Serie A,2024,11,Vitoria,47,38,13,8,17,45,52,-7
+brasileirao,Serie A,2024,12,Atletico-MG,47,38,11,14,13,47,54,-7
+brasileirao,Serie A,2024,13,Fluminense,46,38,12,10,16,33,39,-6
+brasileirao,Serie A,2024,14,Gremio,45,38,12,9,17,44,50,-6
+brasileirao,Serie A,2024,15,Juventude,45,38,11,12,15,48,59,-11
+brasileirao,Serie A,2024,16,RB Bragantino,44,38,10,14,14,44,48,-4
+brasileirao,Serie A,2024,17,Atletico Paranaense,42,38,11,9,18,40,46,-6
+brasileirao,Serie A,2024,18,Criciuma,38,38,9,11,18,42,61,-19
+brasileirao,Serie A,2024,19,Atletico Goianiense,30,38,7,9,22,29,58,-29
+brasileirao,Serie A,2024,20,Cuiaba,30,38,6,12,20,29,49,-20
+argentina,Liga Profesional Argentina,2022,1,Boca Juniors,52,27,16,4,7,34,28,6
+argentina,Liga Profesional Argentina,2022,2,Racing Club,50,27,14,8,5,41,24,17
+argentina,Liga Profesional Argentina,2022,3,River Plate,47,27,14,5,8,43,22,21
+argentina,Liga Profesional Argentina,2022,4,Huracan,47,27,12,11,4,35,21,14
+argentina,Liga Profesional Argentina,2022,5,Atletico Tucuman,46,27,12,10,5,32,22,10
+argentina,Liga Profesional Argentina,2022,6,San Lorenzo,43,27,10,13,4,33,23,10
+argentina,Liga Profesional Argentina,2022,7,Tigre,43,27,11,10,6,41,32,9
+argentina,Liga Profesional Argentina,2022,8,Argentinos JRS,42,27,12,6,9,33,24,9
+argentina,Liga Profesional Argentina,2022,9,Gimnasia L.P.,41,27,11,8,8,26,18,8
+argentina,Liga Profesional Argentina,2022,10,Patronato,40,27,11,7,9,31,27,4
+argentina,Liga Profesional Argentina,2022,11,Newells Old Boys,40,27,11,7,9,26,22,4
+argentina,Liga Profesional Argentina,2022,12,Defensa Y Justicia,40,27,10,10,7,29,27,2
+argentina,Liga Profesional Argentina,2022,13,Talleres Cordoba,35,27,9,8,10,28,26,2
+argentina,Liga Profesional Argentina,2022,14,Independiente,35,27,9,8,10,31,31,0
+argentina,Liga Profesional Argentina,2022,15,Godoy Cruz,35,27,9,8,10,25,29,-4
+argentina,Liga Profesional Argentina,2022,16,Central Cordoba de Santiago,34,27,10,4,13,34,37,-3
+argentina,Liga Profesional Argentina,2022,17,Barracas Central,34,27,8,10,9,31,37,-6
+argentina,Liga Profesional Argentina,2022,18,Estudiantes L.P.,33,27,9,6,12,28,40,-12
+argentina,Liga Profesional Argentina,2022,19,Platense,32,27,7,11,9,23,25,-2
+argentina,Liga Profesional Argentina,2022,20,Rosario Central,32,27,7,11,9,24,28,-4
+argentina,Liga Profesional Argentina,2022,21,Sarmiento Junin,32,27,8,8,11,27,32,-5
+argentina,Liga Profesional Argentina,2022,22,Union Santa Fe,32,27,8,8,11,28,36,-8
+argentina,Liga Profesional Argentina,2022,23,Arsenal Sarandi,30,27,6,12,9,28,29,-1
+argentina,Liga Profesional Argentina,2022,24,Banfield,30,27,7,9,11,23,29,-6
+argentina,Liga Profesional Argentina,2022,25,Colon Santa Fe,29,27,7,8,12,24,36,-12
+argentina,Liga Profesional Argentina,2022,26,Velez Sarsfield,28,27,6,10,11,30,33,-3
+argentina,Liga Profesional Argentina,2022,27,Lanus,21,27,5,6,16,22,40,-18
+argentina,Liga Profesional Argentina,2022,28,Aldosivi,16,27,4,4,19,16,48,-32
+argentina,Liga Profesional Argentina,2023,1,River Plate,61,27,19,4,4,50,20,30
+argentina,Liga Profesional Argentina,2023,2,Talleres Cordoba,50,27,14,8,5,42,23,19
+argentina,Liga Profesional Argentina,2023,3,San Lorenzo,46,27,12,10,5,23,13,10
+argentina,Liga Profesional Argentina,2023,4,Lanus,45,27,12,9,6,38,27,11
+argentina,Liga Profesional Argentina,2023,5,Estudiantes L.P.,45,27,12,9,6,35,24,11
+argentina,Liga Profesional Argentina,2023,6,Defensa Y Justicia,44,27,12,8,7,36,23,13
+argentina,Liga Profesional Argentina,2023,7,Boca Juniors,44,27,13,5,9,33,24,9
+argentina,Liga Profesional Argentina,2023,8,Rosario Central,42,27,10,12,5,36,29,7
+argentina,Liga Profesional Argentina,2023,9,Godoy Cruz,41,27,11,8,8,37,32,5
+argentina,Liga Profesional Argentina,2023,10,Argentinos JRS,40,27,11,7,9,31,22,9
+argentina,Liga Profesional Argentina,2023,11,Atletico Tucuman,37,27,9,10,8,25,27,-2
+argentina,Liga Profesional Argentina,2023,12,Racing Club,36,27,9,9,9,36,35,1
+argentina,Liga Profesional Argentina,2023,13,Belgrano Cordoba,36,27,10,6,11,20,26,-6
+argentina,Liga Profesional Argentina,2023,14,Newells Old Boys,35,27,8,11,8,24,24,0
+argentina,Liga Profesional Argentina,2023,15,Barracas Central,35,27,8,11,8,25,30,-5
+argentina,Liga Profesional Argentina,2023,16,Tigre,34,27,9,7,11,27,29,-2
+argentina,Liga Profesional Argentina,2023,17,Platense,34,27,9,7,11,26,29,-3
+argentina,Liga Profesional Argentina,2023,18,Instituto Cordoba,32,27,8,8,11,24,35,-11
+argentina,Liga Profesional Argentina,2023,19,Sarmiento Junin,30,27,7,9,11,23,26,-3
+argentina,Liga Profesional Argentina,2023,20,Union Santa Fe,30,27,6,12,9,19,25,-6
+argentina,Liga Profesional Argentina,2023,21,Banfield,30,27,7,9,11,21,32,-11
+argentina,Liga Profesional Argentina,2023,22,Gimnasia L.P.,30,27,7,9,11,24,38,-14
+argentina,Liga Profesional Argentina,2023,23,Central Cordoba de Santiago,29,27,7,8,12,20,30,-10
+argentina,Liga Profesional Argentina,2023,24,Independiente,28,27,6,10,11,23,32,-9
+argentina,Liga Profesional Argentina,2023,25,Velez Sarsfield,27,27,5,12,10,24,27,-3
+argentina,Liga Profesional Argentina,2023,26,Huracan,25,27,6,7,14,18,29,-11
+argentina,Liga Profesional Argentina,2023,27,Colon Santa Fe,25,27,4,13,10,20,33,-13
+argentina,Liga Profesional Argentina,2023,28,Arsenal Sarandi,22,27,6,4,17,18,34,-16
+argentina,Liga Profesional Argentina,2024,1,Velez Sarsfield,51,27,14,9,4,38,16,22
+argentina,Liga Profesional Argentina,2024,2,Talleres Cordoba,48,27,13,9,5,34,27,7
+argentina,Liga Profesional Argentina,2024,3,Racing Club,46,27,14,4,9,42,30,12
+argentina,Liga Profesional Argentina,2024,4,Huracan,46,27,12,10,5,28,18,10
+argentina,Liga Profesional Argentina,2024,5,River Plate,43,27,11,10,6,38,21,17
+argentina,Liga Profesional Argentina,2024,6,Boca Juniors,42,27,11,9,7,30,23,7
+argentina,Liga Profesional Argentina,2024,7,Independiente,40,27,9,13,5,25,17,8
+argentina,Liga Profesional Argentina,2024,8,Atletico Tucuman,40,27,11,7,9,28,27,1
+argentina,Liga Profesional Argentina,2024,9,Union Santa Fe,40,27,11,7,9,27,26,1
+argentina,Liga Profesional Argentina,2024,10,Platense,39,27,10,9,8,20,18,2
+argentina,Liga Profesional Argentina,2024,11,Independ. Rivadavia,38,27,10,8,9,23,25,-2
+argentina,Liga Profesional Argentina,2024,12,Estudiantes L.P.,36,27,8,12,7,36,34,2
+argentina,Liga Profesional Argentina,2024,13,Instituto Cordoba,36,27,10,6,11,32,31,1
+argentina,Liga Profesional Argentina,2024,14,Lanus,36,27,8,12,7,28,31,-3
+argentina,Liga Profesional Argentina,2024,15,Godoy Cruz,35,27,8,11,8,31,28,3
+argentina,Liga Profesional Argentina,2024,16,Belgrano Cordoba,35,27,8,11,8,33,32,1
+argentina,Liga Profesional Argentina,2024,17,Deportivo Riestra,35,27,8,11,8,26,27,-1
+argentina,Liga Profesional Argentina,2024,18,Tigre,34,27,8,10,9,27,30,-3
+argentina,Liga Profesional Argentina,2024,19,Gimnasia L.P.,32,27,8,8,11,21,23,-2
+argentina,Liga Profesional Argentina,2024,20,Rosario Central,32,27,8,8,11,27,30,-3
+argentina,Liga Profesional Argentina,2024,21,Defensa Y Justicia,32,27,7,11,9,27,33,-6
+argentina,Liga Profesional Argentina,2024,22,Central Cordoba de Santiago,31,27,8,7,12,29,36,-7
+argentina,Liga Profesional Argentina,2024,23,Argentinos JRS,30,27,8,6,13,22,28,-6
+argentina,Liga Profesional Argentina,2024,24,San Lorenzo,29,27,7,8,12,20,26,-6
+argentina,Liga Profesional Argentina,2024,25,Newells Old Boys,28,27,7,7,13,22,35,-13
+argentina,Liga Profesional Argentina,2024,26,Sarmiento Junin,26,27,5,11,11,18,28,-10
+argentina,Liga Profesional Argentina,2024,27,Banfield,24,27,5,9,13,22,36,-14
+argentina,Liga Profesional Argentina,2024,28,Barracas Central,23,27,4,11,12,15,33,-18
