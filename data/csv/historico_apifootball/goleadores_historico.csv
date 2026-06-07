@@ -1,0 +1,96 @@
+liga,torneo,season,pos,jugador,equipo,goles,asistencias,partidos
+chile,Primera División,2022,1,F. Zampedri,U. Catolica,18,,29
+chile,Primera División,2022,2,J. Lucero,Colo Colo,15,5.0,26
+chile,Primera División,2022,3,G. Lezcano,Cobresal,15,4.0,28
+chile,Primera División,2022,4,L. Passerini,Union La Calera,12,7.0,26
+chile,Primera División,2022,5,J. Abrigo,Coquimbo Unido,12,5.0,22
+chile,Primera División,2022,6,A. Aravena,Nublense,11,3.0,30
+chile,Primera División,2022,7,C. Waterman,Cobresal,11,1.0,24
+chile,Primera División,2022,8,D. Coelho,Curico Unido,10,3.0,27
+chile,Primera División,2022,9,L. Garate,Union Espanola,10,1.0,27
+chile,Primera División,2022,10,G. Costa,Colo Colo,10,4.0,24
+chile,Primera División,2022,11,C. Palacios,Universidad de Chile,10,1.0,20
+chile,Primera División,2022,12,L. Palacios,A. Italiano,9,1.0,14
+chile,Primera División,2022,13,P. Rubio,Nublense,8,3.0,28
+chile,Primera División,2022,14,R. Holgado,Curico Unido,8,1.0,26
+chile,Primera División,2022,15,N. Guerra,Nublense,8,3.0,23
+chile,Primera División,2022,16,S. Sáez,Union La Calera,7,3.0,29
+chile,Primera División,2022,17,M. Salas,Palestino,7,3.0,12
+chile,Primera División,2022,18,M. Campos,Everton de Vina,7,2.0,23
+chile,Primera División,2022,19,B. Barticciotto,Palestino,7,1.0,14
+chile,Primera División,2022,20,D. Osorio,Universidad de Chile,7,,27
+chile,Primera División,2023,1,F. Zampedri,U. Catolica,17,2.0,26
+chile,Primera División,2023,2,R. Holgado,Coquimbo Unido,16,3.0,27
+chile,Primera División,2023,3,L. Garate,Union Espanola,14,8.0,30
+chile,Primera División,2023,4,P. Rubio,Nublense,14,2.0,24
+chile,Primera División,2023,5,A. Aravena,U. Catolica,13,4.0,28
+chile,Primera División,2023,6,S. Sáez,Everton de Vina,12,4.0,28
+chile,Primera División,2023,7,C. Martínez,Huachipato,12,7.0,27
+chile,Primera División,2023,8,R. Piñeiro,Union Espanola,11,3.0,21
+chile,Primera División,2023,9,G. Lezcano,Cobresal,10,6.0,28
+chile,Primera División,2023,10,M. Dávila,Palestino,10,3.0,27
+chile,Primera División,2023,11,L. Fernández,Universidad de Chile,10,3.0,24
+chile,Primera División,2023,12,G. Sosa,A. Italiano,10,3.0,26
+chile,Primera División,2023,13,C. Waterman,Cobresal,10,2.0,25
+chile,Primera División,2023,14,C. Palacios,Universidad de Chile,9,,24
+chile,Primera División,2023,15,M. Salas,Palestino,8,3.0,25
+chile,Primera División,2023,16,G. Ríos,A. Italiano,8,2.0,24
+chile,Primera División,2023,17,D. Coelho,Curico Unido,8,1.0,30
+chile,Primera División,2023,18,M. Quinteros,Deportes Copiapo,8,1.0,30
+chile,Primera División,2024,1,F. Zampedri,U. Catolica,18,2.0,26
+chile,Primera División,2024,2,R. Contreras,Everton de Vina,16,5.0,25
+chile,Primera División,2024,3,S. Pino,Deportes Iquique,13,7.0,26
+chile,Primera División,2024,4,I. Jeraldino,A. Italiano,12,2.0,29
+chile,Primera División,2024,5,C. Palacios,Universidad de Chile,11,3.0,25
+chile,Primera División,2024,6,L. Fernández,Universidad de Chile,10,11.0,25
+chile,Primera División,2024,7,M. Quinteros,Deportes Copiapo,9,3.0,29
+chile,Primera División,2024,8,F. Frías,Union Espanola,9,0.0,24
+chile,Primera División,2024,9,P. Rubio,Nublense,9,1.0,24
+chile,Primera División,2024,10,L. Valencia,A. Italiano,9,5.0,23
+chile,Primera División,2024,11,B. Carrasco,Palestino,9,3.0,26
+chile,Primera División,2024,12,G. Tapia,U. Catolica,8,4.0,27
+chile,Primera División,2024,13,G. Sosa,Palestino,8,3.0,22
+chile,Primera División,2024,14,E. Puch,Deportes Iquique,8,2.0,23
+chile,Primera División,2024,15,D. González,Union Espanola,7,1.0,28
+chile,Primera División,2024,16,A. Uribe,Union Espanola,7,10.0,30
+chile,Primera División,2024,17,C. Palacios,Colo Colo,7,4.0,23
+chile,Primera División,2024,18,M. Guerrero,Universidad de Chile,6,4.0,26
+premier,Premier League,2022,1,E. Haaland,Manchester City,36,8.0,36
+premier,Premier League,2022,2,H. Kane,Tottenham,30,3.0,38
+premier,Premier League,2022,3,I. Toney,Brentford,20,4.0,33
+premier,Premier League,2022,4,Mohamed Salah,Liverpool,19,12.0,38
+premier,Premier League,2022,5,C. Wilson,Newcastle,18,5.0,32
+premier,Premier League,2022,6,M. Rashford,Manchester United,17,5.0,35
+premier,Premier League,2022,7,M. Ødegaard,Arsenal,15,7.0,37
+premier,Premier League,2022,8,Gabriel Martinelli,Arsenal,15,5.0,36
+premier,Premier League,2022,9,O. Watkins,Aston Villa,15,6.0,37
+premier,Premier League,2022,10,B. Saka,Arsenal,14,11.0,38
+premier,Premier League,2022,11,A. Mitrović,Fulham,14,1.0,24
+premier,Premier League,2022,12,H. Barnes,Leicester,13,1.0,34
+premier,Premier League,2022,13,Rodrigo,Leeds,13,1.0,31
+premier,Premier League,2022,14,P. Foden,Manchester City,11,5.0,33
+premier,Premier League,2022,15,Roberto Firmino,Liverpool,11,4.0,25
+premier,Premier League,2022,16,M. Almirón,Newcastle,11,2.0,34
+premier,Premier League,2022,17,Gabriel Jesus,Arsenal,11,6.0,26
+premier,Premier League,2022,18,Son Heung-Min,Tottenham,10,6.0,36
+premier,Premier League,2022,19,T. Awoniyi,Nottingham Forest,10,1.0,29
+premier,Premier League,2022,20,J. Maddison,Leicester,10,9.0,30
+premier,Premier League,2023,1,E. Haaland,Manchester City,27,5.0,32
+premier,Premier League,2023,2,C. Palmer,Chelsea,22,11.0,33
+premier,Premier League,2023,3,A. Isak,Newcastle,21,2.0,31
+premier,Premier League,2023,4,O. Watkins,Aston Villa,19,13.0,37
+premier,Premier League,2023,5,P. Foden,Manchester City,19,8.0,37
+premier,Premier League,2023,6,D. Solanke,Bournemouth,19,3.0,38
+premier,Premier League,2023,7,Mohamed Salah,Liverpool,18,10.0,32
+premier,Premier League,2023,8,Son Heung-Min,Tottenham,17,10.0,35
+premier,Premier League,2023,9,J. Bowen,West Ham,16,6.0,34
+premier,Premier League,2023,10,J. Mateta,Crystal Palace,16,5.0,35
+premier,Premier League,2023,11,B. Saka,Arsenal,16,8.0,35
+premier,Premier League,2023,12,N. Jackson,Chelsea,14,5.0,35
+premier,Premier League,2023,13,C. Wood,Nottingham Forest,14,1.0,31
+premier,Premier League,2023,14,K. Havertz,Arsenal,13,7.0,37
+premier,Premier League,2023,15,Y. Wissa,Brentford,12,3.0,34
+premier,Premier League,2023,16,L. Trossard,Arsenal,12,1.0,34
+premier,Premier League,2023,17,Matheus Cunha,Manchester United,12,7.0,32
+premier,Premier League,2023,18,Hwang Hee-Chan,Wolves,12,3.0,29
+premier,Premier League,2023,19,D. Núñez,Liverpool,11,8.0,36

@@ -1,0 +1,89 @@
+liga,torneo,season,pos,equipo,pts,pj,g,e,p,gf,gc,dif
+chile,Primera División,2022,1,Colo Colo,63,30,18,9,3,54,17,37
+chile,Primera División,2022,2,Nublense,52,30,14,10,6,46,32,14
+chile,Primera División,2022,3,Curico Unido,49,30,13,10,7,48,30,18
+chile,Primera División,2022,4,Cobresal,45,30,13,6,11,44,39,5
+chile,Primera División,2022,5,U. Catolica,45,30,13,6,11,41,38,3
+chile,Primera División,2022,6,A. Italiano,45,30,12,9,9,44,42,2
+chile,Primera División,2022,7,O'Higgins,44,30,11,11,8,31,31,0
+chile,Primera División,2022,8,Palestino,43,29,11,10,8,42,35,7
+chile,Primera División,2022,9,Everton de Vina,42,30,9,15,6,40,27,13
+chile,Primera División,2022,10,Union La Calera,39,30,9,12,9,36,40,-4
+chile,Primera División,2022,11,Union Espanola,37,30,10,7,13,37,44,-7
+chile,Primera División,2022,12,Huachipato,35,30,10,5,15,32,46,-14
+chile,Primera División,2022,13,Universidad de Chile,30,30,8,6,16,35,50,-15
+chile,Primera División,2022,14,Coquimbo Unido,27,30,7,6,17,32,52,-20
+chile,Primera División,2022,15,D. La Serena,27,30,7,6,17,28,56,-28
+chile,Primera División,2022,16,Antofagasta,26,29,6,8,15,23,34,-11
+chile,Primera División,2023,1,Huachipato,57,30,17,6,7,48,30,18
+chile,Primera División,2023,2,Cobresal,56,30,16,8,6,56,39,17
+chile,Primera División,2023,3,Colo Colo,54,30,15,9,6,45,29,16
+chile,Primera División,2023,4,Palestino,49,30,14,7,9,46,40,6
+chile,Primera División,2023,5,Coquimbo Unido,47,30,14,5,11,43,42,1
+chile,Primera División,2023,6,Everton de Vina,45,30,13,6,11,42,39,3
+chile,Primera División,2023,7,U. Catolica,42,30,11,9,10,48,43,5
+chile,Primera División,2023,8,Union La Calera,41,30,10,11,9,42,41,1
+chile,Primera División,2023,9,Universidad de Chile,40,30,11,7,12,40,42,-2
+chile,Primera División,2023,10,Union Espanola,39,30,10,9,11,40,36,4
+chile,Primera División,2023,11,O'Higgins,35,30,9,8,13,37,39,-2
+chile,Primera División,2023,12,Nublense,35,30,9,8,13,33,39,-6
+chile,Primera División,2023,13,A. Italiano,35,30,10,5,15,36,43,-7
+chile,Primera División,2023,14,Deportes Copiapo,34,30,8,10,12,32,45,-13
+chile,Primera División,2023,15,Magallanes,29,30,8,5,17,36,49,-13
+chile,Primera División,2023,16,Curico Unido,23,30,6,5,19,30,58,-28
+chile,Primera División,2024,1,Colo Colo,67,30,21,4,5,49,21,28
+chile,Primera División,2024,2,Universidad de Chile,65,30,19,8,3,53,24,29
+chile,Primera División,2024,3,Deportes Iquique,48,30,14,6,10,53,48,5
+chile,Primera División,2024,4,Palestino,46,30,13,7,10,46,33,13
+chile,Primera División,2024,5,U. Catolica,46,30,13,7,10,44,34,10
+chile,Primera División,2024,6,Union Espanola,45,30,13,6,11,53,45,8
+chile,Primera División,2024,7,Everton de Vina,45,30,12,9,9,47,41,6
+chile,Primera División,2024,8,Coquimbo Unido,45,30,12,9,9,37,34,3
+chile,Primera División,2024,9,Nublense,40,30,11,7,12,40,34,6
+chile,Primera División,2024,10,A. Italiano,34,30,10,4,16,36,39,-3
+chile,Primera División,2024,11,Union La Calera,34,30,9,7,14,29,40,-11
+chile,Primera División,2024,12,Huachipato,34,30,9,7,14,28,44,-16
+chile,Primera División,2024,13,Cobresal,33,30,8,9,13,42,51,-9
+chile,Primera División,2024,14,O'Higgins,31,30,8,7,15,34,53,-19
+chile,Primera División,2024,15,Cobreloa,31,30,9,4,17,33,62,-29
+chile,Primera División,2024,16,Deportes Copiapo,24,30,7,3,20,40,61,-21
+premier,Premier League,2022,1,Manchester City,89,38,28,5,5,94,33,61
+premier,Premier League,2022,2,Arsenal,84,38,26,6,6,88,43,45
+premier,Premier League,2022,3,Manchester United,75,38,23,6,9,58,43,15
+premier,Premier League,2022,4,Newcastle,71,38,19,14,5,68,33,35
+premier,Premier League,2022,5,Liverpool,67,38,19,10,9,75,47,28
+premier,Premier League,2022,6,Brighton,62,38,18,8,12,72,53,19
+premier,Premier League,2022,7,Aston Villa,61,38,18,7,13,51,46,5
+premier,Premier League,2022,8,Tottenham,60,38,18,6,14,70,63,7
+premier,Premier League,2022,9,Brentford,59,38,15,14,9,58,46,12
+premier,Premier League,2022,10,Fulham,52,38,15,7,16,55,53,2
+premier,Premier League,2022,11,Crystal Palace,45,38,11,12,15,40,49,-9
+premier,Premier League,2022,12,Chelsea,44,38,11,11,16,38,47,-9
+premier,Premier League,2022,13,Wolves,41,38,11,8,19,31,58,-27
+premier,Premier League,2022,14,West Ham,40,38,11,7,20,42,55,-13
+premier,Premier League,2022,15,Bournemouth,39,38,11,6,21,37,71,-34
+premier,Premier League,2022,16,Nottingham Forest,38,38,9,11,18,38,68,-30
+premier,Premier League,2022,17,Everton,36,38,8,12,18,34,57,-23
+premier,Premier League,2022,18,Leicester,34,38,9,7,22,51,68,-17
+premier,Premier League,2022,19,Leeds,31,38,7,10,21,48,78,-30
+premier,Premier League,2022,20,Southampton,25,38,6,7,25,36,73,-37
+premier,Premier League,2023,1,Manchester City,91,38,28,7,3,96,34,62
+premier,Premier League,2023,2,Arsenal,89,38,28,5,5,91,29,62
+premier,Premier League,2023,3,Liverpool,82,38,24,10,4,86,41,45
+premier,Premier League,2023,4,Aston Villa,68,38,20,8,10,76,61,15
+premier,Premier League,2023,5,Tottenham,66,38,20,6,12,74,61,13
+premier,Premier League,2023,6,Chelsea,63,38,18,9,11,77,63,14
+premier,Premier League,2023,7,Newcastle,60,38,18,6,14,85,62,23
+premier,Premier League,2023,8,Manchester United,60,38,18,6,14,57,58,-1
+premier,Premier League,2023,9,West Ham,52,38,14,10,14,60,74,-14
+premier,Premier League,2023,10,Crystal Palace,49,38,13,10,15,57,58,-1
+premier,Premier League,2023,11,Brighton,48,38,12,12,14,55,62,-7
+premier,Premier League,2023,12,Bournemouth,48,38,13,9,16,54,67,-13
+premier,Premier League,2023,13,Fulham,47,38,13,8,17,55,61,-6
+premier,Premier League,2023,14,Wolves,46,38,13,7,18,50,65,-15
+premier,Premier League,2023,15,Everton,40,38,13,9,16,40,51,-11
+premier,Premier League,2023,16,Brentford,39,38,10,9,19,56,65,-9
+premier,Premier League,2023,17,Nottingham Forest,32,38,9,9,20,49,67,-18
+premier,Premier League,2023,18,Luton,26,38,6,8,24,52,85,-33
+premier,Premier League,2023,19,Burnley,24,38,5,9,24,41,78,-37
+premier,Premier League,2023,20,Sheffield Utd,16,38,3,7,28,35,104,-69
