@@ -149,3 +149,9 @@ fecha_captura,Metrica,Equipo/Jugador,Valor,Detalle
 2026-07-01,Promedio goles/partido,Liga,2.78,proxy de xG (no oficial)
 2026-07-01,Goleador absoluto,Fernando Zampedri,15,Universidad Católica
 2026-07-01,Promedio xG/partido,Liga,N/D,requiere proveedor de pago (Opta/Sofascore)
+2026-07-02,Racha invicto,Coquimbo Unido,6,partidos sin perder
+2026-07-02,Mas derrotas seguidas,Deportes Limache,4,derrotas consecutivas
+2026-07-02,Mejor defensa,Universidad de Chile,10,goles recibidos
+2026-07-02,Promedio goles/partido,Liga,2.78,proxy de xG (no oficial)
+2026-07-02,Goleador absoluto,Fernando Zampedri,15,Universidad Católica
+2026-07-02,Promedio xG/partido,Liga,N/D,requiere proveedor de pago (Opta/Sofascore)
