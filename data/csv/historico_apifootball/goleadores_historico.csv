@@ -123,7 +123,7 @@ laliga,La Liga,2022,7,E. Ünal,Getafe,14,3.0,35
 laliga,La Liga,2022,8,Álvaro Morata,Atletico Madrid,13,2.0,36
 laliga,La Liga,2022,9,V. Castellanos,Girona,13,,35
 laliga,La Liga,2022,10,N. Jackson,Villarreal,12,4.0,29
-laliga,La Liga,2022,11,A. Sørloth,Atletico Madrid,12,3.0,34
+laliga,La Liga,2022,11,A. Sørloth,Real Sociedad,12,3.0,34
 laliga,La Liga,2022,12,Iago Aspas,Celta Vigo,12,3.0,37
 laliga,La Liga,2022,13,Gabri Veiga,Celta Vigo,11,4.0,36
 laliga,La Liga,2022,14,Vinícius Júnior,Real Madrid,10,9.0,33
@@ -156,7 +156,7 @@ laliga,La Liga,2024,2,R. Lewandowski,Barcelona,26,2.0,35
 laliga,La Liga,2024,3,A. Budimir,Osasuna,21,4.0,38
 laliga,La Liga,2024,4,A. Sørloth,Atletico Madrid,20,2.0,35
 laliga,La Liga,2024,5,Ayoze Pérez,Villarreal,19,2.0,30
-laliga,La Liga,2024,6,Raphinha,Barcelona,18,9.0,37
+laliga,La Liga,2024,6,Raphinha,Barcelona,18,9.0,36
 laliga,La Liga,2024,7,J. Álvarez,Atletico Madrid,17,4.0,37
 laliga,La Liga,2024,8,Oihan Sancet,Athletic Club,15,1.0,30
 laliga,La Liga,2024,9,Kike García,Alaves,13,0.0,37
@@ -340,7 +340,7 @@ ligue1,Ligue 1,2024,13,G. Mikautadze,Lyon,11,6.0,34
 ligue1,Ligue 1,2024,14,G. Laborde,Nice,11,4.0,28
 ligue1,Ligue 1,2024,15,G. Perrin,Auxerre,10,11.0,34
 ligue1,Ligue 1,2024,16,Andrey Santos,Strasbourg,10,3.0,32
-ligue1,Ligue 1,2024,17,A. Gouiri,Marseille,10,3.0,14
+ligue1,Ligue 1,2024,17,A. Gouiri,Rennes,10,3.0,14
 ligue1,Ligue 1,2024,18,H. Traorè,Auxerre,10,2.0,26
 ligue1,Ligue 1,2024,19,Gonçalo Ramos,Paris Saint Germain,10,3.0,22
 brasileirao,Serie A,2022,1,G. Cano,Fluminense,26,3.0,38
@@ -394,12 +394,12 @@ brasileirao,Serie A,2024,10,R. Garro,Corinthians,10,10.0,36
 brasileirao,Serie A,2024,11,Lucas Moura,Sao Paulo,10,6.0,28
 brasileirao,Serie A,2024,12,Hulk,Atletico-MG,10,5.0,23
 brasileirao,Serie A,2024,13,R. Borré,Internacional,9,3.0,23
-brasileirao,Serie A,2024,14,J. Savarino,Botafogo,8,7.0,28
-brasileirao,Serie A,2024,15,Y. Bolasie,Criciuma,8,4.0,34
-brasileirao,Serie A,2024,16,M. Braithwaite,Gremio,8,2.0,18
-brasileirao,Serie A,2024,17,Paulinho,Palmeiras,8,1.0,25
-brasileirao,Serie A,2024,18,Luiz Fernando,Atletico Paranaense,8,0.0,31
-brasileirao,Serie A,2024,19,Eduardo Sasha,RB Bragantino,8,4.0,28
+brasileirao,Serie A,2024,14,Matheus Pereira,Cruzeiro,8,7.0,34
+brasileirao,Serie A,2024,15,J. Savarino,Botafogo,8,7.0,28
+brasileirao,Serie A,2024,16,Y. Bolasie,Criciuma,8,4.0,34
+brasileirao,Serie A,2024,17,M. Braithwaite,Gremio,8,2.0,18
+brasileirao,Serie A,2024,18,Paulinho,Palmeiras,8,1.0,25
+brasileirao,Serie A,2024,19,Luiz Fernando,Atletico Paranaense,8,0.0,31
 argentina,Liga Profesional Argentina,2022,1,M. Retegui,Tigre,22,4.0,40
 argentina,Liga Profesional Argentina,2022,2,E. Copetti,Racing Club,19,4.0,40
 argentina,Liga Profesional Argentina,2022,3,M. Boselli,Estudiantes L.P.,17,1.0,33
