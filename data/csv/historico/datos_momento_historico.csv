@@ -881,3 +881,9 @@ fecha_captura,Metrica,Equipo/Jugador,Valor,Detalle
 2026-10-31,Promedio goles/partido,Liga,2.89,proxy de xG (no oficial)
 2026-10-31,Goleador absoluto,Fernando Zampedri,27,Universidad Católica
 2026-10-31,Promedio xG/partido,Liga,N/D,requiere proveedor de pago (Opta/Sofascore)
+2026-11-01,Racha invicto,Huachipato,5,partidos sin perder
+2026-11-01,Mas derrotas seguidas,Universidad de Concepción,2,derrotas consecutivas
+2026-11-01,Mejor defensa,Universidad de Chile,20,goles recibidos
+2026-11-01,Promedio goles/partido,Liga,2.88,proxy de xG (no oficial)
+2026-11-01,Goleador absoluto,Fernando Zampedri,27,Universidad Católica
+2026-11-01,Promedio xG/partido,Liga,N/D,requiere proveedor de pago (Opta/Sofascore)
